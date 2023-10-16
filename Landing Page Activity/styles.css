@@ -1,0 +1,25 @@
+h1 {
+    font-family: Verdana, sans-serif;
+}
+
+h2 {
+    font-family: Verdana, sans-serif;}
+
+h3 {
+    font-family: Verdana, sans-serif;}
+
+span {
+    font-family: Verdana, sans-serif;
+    color: #ffc200
+}
+
+p {
+    font-family: Merriweather, Georgia, serif;
+}
+
+.footer {
+    font-family: Georgia, serif;
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+}
